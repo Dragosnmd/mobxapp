@@ -306,7 +306,7 @@ packages:
     source: hosted
     version: "2.1.1"
   mobx_codegen:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: mobx_codegen
       url: "https://pub.dartlang.org"
